@@ -111,12 +111,10 @@ USD-BRL
 
 ---
 
-## 👨‍💻 Autor Felipe Barbosa
+## 👨‍💻 Autor - [Felipe Barbosa](https://www.linkedin.com/in/felipebarbosalds/)
 
 Projeto desenvolvido para fins de estudo e prática em:
 
 * Consumo de APIs
 * Organização de código Python
 * Interfaces simples com Streamlit
-
-```
