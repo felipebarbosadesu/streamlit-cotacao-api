@@ -45,9 +45,9 @@ Os dados de câmbio são obtidos diretamente da **AwesomeAPI**, garantindo infor
 ```
 
 📁 projeto/
-├── main.py          # Regras de negócio, integração com API e histórico
-├── etapa1.py        # Funções de cotação e conversão
-├── app.py           # Interface Streamlit
+├── main.py           Regras de negócio, integração com API e histórico
+├── etapa1.py         Funções de cotação e conversão
+├── app.py            Interface Streamlit
 └── README.md
 
 ````
@@ -66,8 +66,8 @@ cd seu-repositorio
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate     # Windows
+source venv/bin/activate   Linux/Mac
+venv\Scripts\activate      Windows
 ```
 
 ### 3️⃣ Instale as dependências
