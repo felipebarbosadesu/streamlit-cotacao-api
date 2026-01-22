@@ -120,5 +120,3 @@ Projeto desenvolvido para fins de estudo e prática em:
 * Interfaces simples com Streamlit
 
 ```
-
----
